@@ -1,0 +1,5 @@
+question suggests that we see the spectrogram
+
+spectrogram reveils the flag.
+
+flag: DUCTF{m4by3_n0t_s0_h1dd3n}

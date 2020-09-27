@@ -1,0 +1,7 @@
+simply load the pickle provided and analyze...
+
+all the values of the dictionary provided are in ascii numbers.
+
+convert and get the flag.
+
+flag: DUCTF{p1ckl3_y0uR_m3554g3}

@@ -1,0 +1,4 @@
+flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
+
+this is simply base 64 encoding.
+the flag itself provides the insight.

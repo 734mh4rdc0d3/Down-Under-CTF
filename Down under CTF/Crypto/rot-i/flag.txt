@@ -1,0 +1,8 @@
+Ypw'zj zwufpp hwu txadjkcq dtbtyu kqkwxrbvu! Mbz cjzg kv IAJBO{ndldie_al_aqk_jjrnsxee}. Xzi utj gnn olkd qgq ftk ykaqe uei mbz ocrt qi ynlu, etrm mff'n wij bf wlny mjcj :).
+
+indicating rot cipher
+starting from the character which gives DUCTF of the flag. decrease the value of the cipher to get the next character of the flag.
+
+last word here is crazy, but it is accepted.
+
+flag: DUCTF{crypto_is_fun_kjqlptzy}
